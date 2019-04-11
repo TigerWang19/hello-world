@@ -47,7 +47,7 @@ int main(int argc, char *argv[]) //C
 
 
 `NetworkMessage test = new NetworkMessage();`  
-//换行 两个空格+回车
+//换行 两个空格+回车  
 test.chosenClass = chosenCharacter;
  ClientScene.AddPlayer(client.connection, 0, test);
  
