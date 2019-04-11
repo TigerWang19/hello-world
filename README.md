@@ -2,8 +2,7 @@
 
 ![hello](https://github.com/TigerWang19/hello-world/blob/master/helloworld.jpeg)
 The Network Manager component allows you to control the state of a networked game. 
-It provides an interface in the Editor for you to configure the network, the Prefabs you use for spawning GameObjects, and the Scenes you use for different game states.
-
+ 
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 # 一级标题  
@@ -45,3 +44,14 @@ int main(int argc, char *argv[]) //C
 **加重强调** 或者 __加重强调__ (示例：粗体)
 
 ***特别强调*** 或者 ___特别强调___ (示例：粗斜体)
+
+
+`NetworkMessage test = new NetworkMessage();`
+        test.chosenClass = chosenCharacter;
+
+          ClientScene.AddPlayer(client.connection, 0, test);
+          
+          `` public override void OnClientSceneChanged(NetworkConnection conn)``
+    
+        ```base.OnClientSceneChanged(conn);```
+    
