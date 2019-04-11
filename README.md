@@ -23,3 +23,11 @@ The Network Manager component allows you to control the state of a networked gam
 #Topic 1
 
 ##Topic 2
+
+```Java
+public static void main(String[] args){} //Java
+```
+
+```C
+int main(int argc, char *argv[]) //C
+```
