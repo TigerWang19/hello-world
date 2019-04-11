@@ -39,3 +39,7 @@ public static void main(String[] args){} //Java
 ```C
 int main(int argc, char *argv[]) //C
 ```
+
+*强调* 或者 _强调_  (示例：斜体)
+**加重强调** 或者 __加重强调__ (示例：粗体)
+***特别强调*** 或者 ___特别强调___ (示例：粗斜体)
