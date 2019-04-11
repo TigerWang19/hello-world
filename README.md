@@ -61,4 +61,4 @@ test.chosenClass = chosenCharacter;
 
 >>她时而明艳不可方物，艳丽非凡，时而端严之至，令人不敢逼视。精灵俊秀，直率豪爽，具有雄才大略，曾期许自己能创一番大事业，可惜生为女儿身。曾经奉命剿灭反贼，对六大派下毒手。
 
- [baidu](http://www.baidu.com)
+百度： [http://www.baidu.com](http://www.baidu.com)
