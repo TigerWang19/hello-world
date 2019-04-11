@@ -64,11 +64,15 @@ test.chosenClass = chosenCharacter;
 百度： [http://www.baidu.com](http://www.baidu.com)
 
 ----
-谷歌：[www.google.com](www.google.com)
+谷歌：[www.google.com](www.google.com)  
+
 ---
-谷歌：[www.google.com](www.google.com)
+谷歌：[www.google.com](www.google.com)  
+
 ----
 谷歌：[www.google.com](www.google.com)
+
 -----
 谷歌：[www.google.com](www.google.com)
+
 ----------------
