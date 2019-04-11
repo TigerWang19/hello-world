@@ -7,8 +7,13 @@ It provides an interface in the Editor for you to configure the network, the Pre
 ![baidu](http://www.baidu.com/img/bdlogo.gif)
 
 #一级标题  
+
 ##二级标题  
+
 ###三级标题  
+The Network Manager component allows you to control the state of a networked game. 
+
 ####四级标题  
+The Network Manager component allows you to control the state of a networked game. 
 #####五级标题  
 ######六级标题  
