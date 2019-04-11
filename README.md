@@ -46,10 +46,14 @@ int main(int argc, char *argv[]) //C
 ***特别强调*** 或者 ___特别强调___ (示例：粗斜体)
 
 
-`NetworkMessage test = new NetworkMessage();`
+`NetworkMessage test = new NetworkMessage();`  
+//换行 两个空格+回车
 test.chosenClass = chosenCharacter;
  ClientScene.AddPlayer(client.connection, 0, test);
+ 
  `` public override void OnClientSceneChanged(NetworkConnection conn)``
+ 
  ```base.OnClientSceneChanged(conn);```
+ 
  `GameObject player = Instantiate(Resources.Load("Player2"), spawnPosition, spawnRotation) as GameObject;`
     
