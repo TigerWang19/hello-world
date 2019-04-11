@@ -47,11 +47,9 @@ int main(int argc, char *argv[]) //C
 
 
 `NetworkMessage test = new NetworkMessage();`
-        test.chosenClass = chosenCharacter;
-
-          ClientScene.AddPlayer(client.connection, 0, test);
-          
-          `` public override void OnClientSceneChanged(NetworkConnection conn)``
-    
-        ```base.OnClientSceneChanged(conn);```
+test.chosenClass = chosenCharacter;
+ ClientScene.AddPlayer(client.connection, 0, test);
+ `` public override void OnClientSceneChanged(NetworkConnection conn)``
+ ```base.OnClientSceneChanged(conn);```
+ `GameObject player = Instantiate(Resources.Load("Player2"), spawnPosition, spawnRotation) as GameObject;`
     
